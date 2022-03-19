@@ -11,5 +11,5 @@ Playlist,
 Employee,
 Customer,
 InvoiceLine and
-Invoice tables
+Invoice tables.
 The queries in this project was written to help the chinook team to better understand the media in their store, their customers and employees, and their invoice information.
